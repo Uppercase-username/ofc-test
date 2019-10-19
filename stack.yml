@@ -8,4 +8,4 @@ functions:
     handler: ./goto
     image: jonatasbaldin/goto:latest
     secrets:
-      - my-secrets
+      - my-secret
